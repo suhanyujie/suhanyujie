@@ -14,5 +14,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanyujie)](https://github.com/suhanyujie/github-readme-stats)
 
-### reference
-* https://github.com/NiZerin/NiZerin
