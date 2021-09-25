@@ -12,5 +12,5 @@
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** Runx
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanyujie)](https://github.com/suhanyujie/github-readme-stats)
+![suhanyujie's github stats](https://github-readme-stats.vercel.app/api?username=suhanyujie&show_icons=true&theme=radical)
 
