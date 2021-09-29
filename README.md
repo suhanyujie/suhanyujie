@@ -14,3 +14,6 @@
 
 ![suhanyujie's github stats](https://github-readme-stats.vercel.app/api?username=suhanyujie&show_icons=true&theme=radical)
 
+### Page visitor counter
+
+![visitor counter](https://profile-counter.glitch.me/suhanyujie/count.svg)
