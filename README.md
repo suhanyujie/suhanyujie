@@ -12,7 +12,11 @@
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** Runx
 
-![suhanyujie's github stats](https://github-readme-stats.vercel.app/api?username=suhanyujie&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhanyujie&show_icons=true&theme=radical" style="width: 40%; max-width: 40%; min-width: 40%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanyujie&layout=compact&count_private=true&theme=radical" style="width: 40%; max-width: 40%; min-width: 40%;">
+</p>
+
 
 ### Page visitor counter
 
