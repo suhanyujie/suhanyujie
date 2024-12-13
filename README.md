@@ -10,7 +10,7 @@
 -  **Languages :** PHP, GO, Rust
 -  **Hobbies :** Articles & Game
 -  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** Runx
+-  **Organization :** なし
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suhanyujie&show_icons=true&layout=compact&theme=radical" style="width: 40%; max-width: 40%; min-width: 40%;">
