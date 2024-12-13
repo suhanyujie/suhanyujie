@@ -7,10 +7,11 @@
 ### About me
 
 -  **Learning :** Backend Web Development :zap: | Open-Source :fire:	
--  **Languages :** PHP, GO, Rust
--  **Hobbies :** Articles & Game
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** なし
+-  **Languages :** PHP, GO, Rust 等
+-  **Hobbies :** バトミントン、ジョギング、web 技術
+-  **Fact :** First solve the problem, then write the code :heart:
+-  **日本語 :** N3~N2 レベル 
+-  **Organization :** なし （バックエンド仕事を探したいです）
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suhanyujie&show_icons=true&layout=compact&theme=radical" style="width: 40%; max-width: 40%; min-width: 40%;">
