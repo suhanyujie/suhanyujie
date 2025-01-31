@@ -8,9 +8,9 @@
 
 -  **Learning :** Backend Web Development :zap: | Open-Source :fire:	
 -  **Languages :** PHP, GO, Rust 等
--  **Hobbies :** バトミントン、ジョギング、web 技術
+-  **Hobbies :** バトミントン、ジョギング、プログラミング等
 -  **Fact :** First solve the problem, then write the code :heart:
--  **日本語 :** N3~N2 レベル 
+-  **日本語 :** N2 レベル 
 -  **Organization :** なし （バックエンド仕事を探したいです）
 
 <p align="left">
