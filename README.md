@@ -7,7 +7,6 @@
 ### About me
 
 -  **Learning :** Backend Web Development :zap: | Open-Source :fire:	
--  **Languages :** PHP, GO, Rust 等
 -  **Hobbies :** バトミントン、ジョギング、プログラミング等
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **日本語 :** N2 レベル 
@@ -18,6 +17,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanyujie&layout=compact&count_private=true&theme=radical" style="width: 40%; max-width: 40%; min-width: 40%;">
 </p>
 
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu,php,go,java,rust,python,c,html,css,js,ts,nextjs,vue,react,vscode,idea,goland&theme=light&perline=8" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=grtsinry43&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ### Page visitor counter
 
