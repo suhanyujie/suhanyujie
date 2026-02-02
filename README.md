@@ -18,9 +18,4 @@
   <img src="https://skillicons.dev/icons?i=ubuntu,php,go,java,rust,python,c,html,css,js,ts,nextjs,vue,react,vscode,idea,goland&theme=light&perline=8" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grtsinry43&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
